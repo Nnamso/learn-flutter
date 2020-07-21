@@ -1,4 +1,4 @@
-# learn-flutter
+# Learn-flutter
 Documenting my learning process of flutter and the issues i faced in the process.(Mac user)
 # Install Andriod studio 
 https://developer.android.com/studio/install
